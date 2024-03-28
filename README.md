@@ -1,4 +1,4 @@
-# duneimperiumios
+# Dune Imperium iOS
 Welcome to the captivating world of Dune Imperium iOS, where strategy, intrigue, and power converge in the palm of your hand. This mobile adaptation of the acclaimed board game brings Arrakis's harsh, unforgiving deserts to life on your iOS device. Whether you're a die-hard fan of the Dune universe or a newcomer seeking a thrilling strategy game, Dune Imperium iOS promises an immersive experience that will keep you hooked for hours.
 ## Gameplay Mechanics
 Dune Imperium iOS blends deck-building with worker placement mechanics, creating a unique and challenging gameplay experience. Players take on the roles of leaders vying for control over the desert planet of Arrakis, also known as Dune. The game is a delicate balance of resource management, strategic planning, and tactical decision-making.
